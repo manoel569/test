@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,Fazenda
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/afazenda_70ac2ffc_0aae6409e2ba7c60fd192580bb1299ba1ec7d4f2.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_4684363230aa2e2400adebfb4ac971859bffafed/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_41dba816e9e6ecf4b91f6a766839821118b9148d/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_31fdb7b7eea6ebe230f63372ce15afa00b5e37f8/playlist.m3u8
+#EXTINF:-1,Telecine Action
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_75ac4f62f86be9509ea2b662b3b41bf8fb8d820a.m3u8
+#EXTINF:-1,Telecine Fun
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinefun_ae1e7198_3775eb4da9f047351cd62d43d22b5d31c32ed7f8.m3u8
+#EXTINF:-1,TelecinePipoca
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_75ac4f62f86be9509ea2b662b3b41bf8fb8d820a.m3u8
+#EXTINF:-1,Record Tv
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1,Rede Tv
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/redetv_45cbe19f_2501272a9280e0c1f87b368e37cf786312751c57/270p/chunklist.m3u8
+
+
+
